@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+  </head>
+  <body>
+    <ul>
+      <li>
+        <font color="black">AさんのGitHubアカウント</font>
+      </li>
+      <li>
+        <font color="black">BさんのGitHubアカウント</font>
+      </li>
+      <li>
+        <font color="red">ここの文字を変えてね</font>
+      </li>
+    </ul>
+  </body>
+</html>
